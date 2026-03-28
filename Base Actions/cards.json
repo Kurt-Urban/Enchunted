@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "settings": {
+    "iconSuggestions": [
+      "💧",
+      "🔥",
+      "🌿",
+      "✨",
+      "🛡",
+      "🟡",
+      "🔵",
+      "🔴",
+      "⚡"
+    ],
+    "defaultIcon": "💧"
+  },
+  "cards": [
+    {
+      "id": "damage",
+      "name": "Damage",
+      "updatedAt": "2026-03-24T00:06:52.161Z",
+      "themeId": "red",
+      "card": {
+        "title": "Damage",
+        "icon": "🔥",
+        "description": "Deal 1 Damage to Monster",
+        "footerCenter": "1 🔵",
+        "footerRight": "2 🟡"
+      }
+    },
+    {
+      "id": "mana",
+      "name": "Mana",
+      "updatedAt": "2026-03-24T00:07:54.919Z",
+      "themeId": "blue",
+      "card": {
+        "title": "Mana",
+        "description": "Add 1 Mana 🔵 to your Mana Pool",
+        "footerRight": "3 🟡"
+      }
+    },
+    {
+      "id": "enchant",
+      "name": "Enchant",
+      "updatedAt": "2026-03-24T00:06:35.625Z",
+      "themeId": "purple",
+      "card": {
+        "title": "Enchant",
+        "icon": "✨",
+        "description": "Upgrade 1 Action by paying its Upgrade Cost 🟡"
+      }
+    },
+    {
+      "id": "disarm",
+      "name": "Disarm",
+      "updatedAt": "2026-03-24T00:07:32.458Z",
+      "themeId": "blue",
+      "card": {
+        "title": "Disarm",
+        "icon": "🛡",
+        "description": "Reduce the Trap Counter by 1 \n--or--\nPay 2 🟡 to disarm the active trap",
+        "footerCenter": "1 🔵",
+        "footerRight": "1 🟡"
+      }
+    },
+    {
+      "id": "heal",
+      "name": "Heal",
+      "updatedAt": "2026-03-24T00:06:57.293Z",
+      "themeId": "green",
+      "card": {
+        "title": "Heal",
+        "icon": "🌿",
+        "description": "Heal 1 to target Wizard",
+        "footerCenter": "2 🔵",
+        "footerRight": "4 🟡"
+      }
+    },
+    {
+      "id": "wild-magic",
+      "name": "Wild Magic",
+      "updatedAt": "2026-03-24T00:07:41.027Z",
+      "themeId": "purple",
+      "card": {
+        "title": "Wild Magic",
+        "icon": "⚡",
+        "description": "Pay 1 🟡 and cast the top Spell from the Wild Magic Spell Deck",
+        "footerCenter": "1 🔵",
+        "footerRight": "2 🟡"
+      }
+    },
+    {
+      "id": "amplify",
+      "name": "Amplify",
+      "updatedAt": "2026-03-24T17:48:55.374Z",
+      "themeId": "yellow",
+      "card": {
+        "title": "Amplify",
+        "icon": "⚡",
+        "description": "+1 to the Next Action this turn",
+        "footerRight": "6🟡"
+      }
+    }
+  ]
+}
