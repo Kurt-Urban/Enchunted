@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "settings": {
+    "iconSuggestions": [
+      "🛡",
+      "🟡",
+      "🔵",
+      "🔴",
+      "🧛",
+      "🗡",
+      "🌿"
+    ],
+    "defaultIcon": "🛡"
+  },
+  "cards": [
+    {
+      "id": "vampire",
+      "name": "Vampire",
+      "updatedAt": "2026-03-30T03:04:39.081Z",
+      "themeId": "blue",
+      "card": {
+        "title": "Vampire",
+        "icon": "🧛",
+        "description": "1 🗡\n1 🗡\n1 🌿",
+        "footerLeft": "4/7/10🔴",
+        "footerRight": "5 🟡"
+      }
+    }
+  ]
+}
